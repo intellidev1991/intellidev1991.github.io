@@ -1,0 +1,25 @@
+$black: #121113;
+$green: #026e57;
+$blue: #2589bd;
+
+* {
+  color: $black !important;
+}
+
+b,
+strong {
+  color: $green !important;
+  em {
+    color: $black !important;
+  }
+}
+
+blockquote {
+  strong {
+    color: $black !important;
+  }
+}
+
+a {
+  color: $blue !important;
+}
