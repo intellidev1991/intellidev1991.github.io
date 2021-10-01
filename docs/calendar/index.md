@@ -74,14 +74,6 @@ _This calendar is tentative, and subject to revision during the semester._
             <td width="293" valign="top">
                 <p>
                     L01 – <a>History of Software Engineering</a>
-                    <a
-                        id="_anchor_1"
-                        href="file:///E:/Downloads/Hou/EE368-2021Spring-Syllabus.docx#_msocom_1"
-                        name="_msoanchor_1"
-                    >
-                        [DH-d1]
-                    </a>
-                    ;
                 </p>
             </td>
             <td width="142" valign="top">
@@ -168,13 +160,6 @@ _This calendar is tentative, and subject to revision during the semester._
                     <a>
                         Lab: Install and build xfig on Ubuntu Linux
                         Server/Laptop/Virtual machine
-                    </a>
-                    <a
-                        id="_anchor_2"
-                        href="file:///E:/Downloads/Hou/EE368-2021Spring-Syllabus.docx#_msocom_2"
-                        name="_msoanchor_2"
-                    >
-                        [DH-d2]
                     </a>
                 </p>
             </td>
@@ -872,3 +857,204 @@ _This calendar is tentative, and subject to revision during the semester._
         </tr>
     </tbody>
 </table>
+
+This course project is team based. Students attending this course will be grouped into 4 teams (5 students per team) and focus on software maintenance of a well-known open source software xfig. Teams will work on 4 new features of xfig, which are listed below.
+
+<table border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="top">
+                <p>
+                    <strong>Feature #</strong>
+                </p>
+            </td>
+            <td valign="top">
+                <p>
+                    <strong>Change Request/New Feature</strong>
+                </p>
+            </td>
+            <td valign="top">
+                <p>
+                    <strong>Scope</strong>
+                </p>
+            </td>
+            <td width="0" height="33">
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="3" valign="top">
+                <p>
+                    #1
+                </p>
+            </td>
+            <td rowspan="3" valign="top">
+                <p>
+                    (1). Each xfig object (e.g., arch, line, rectangle) has a
+                    property called depth, which is used to identify and group
+                    the objects on the same layer. This feature is important to
+                    address the object overlapping relationship.
+                </p>
+                <p>
+                    (2). Users are allowed to change the depth of any xfig
+                    object, and then re-organize the overlapping among objects.
+                    However, it is not very convenient, if users just want to
+                    flip flap overlapped objects.
+                </p>
+                <p>
+                    (3). A quick way is to add a new feature called “send to
+                    back” and “bring to front”, which will set the depth of the
+                    selected object to the maximum value and then put it on the
+                    bottom layer (Note that Depth 0 is the top of the drawing
+                    order).
+                </p>
+            </td>
+            <td rowspan="3" valign="top">
+                <p>
+                    This new feature has global impact to xfig source codes,
+                    and these components below will be involved:
+                </p>
+                <p>
+                    (1). Relevant grouping /recording functions of accessing
+                    data structures of all xfig objects regarding.
+                </p>
+                <p>
+                    (2). The new x window menu item and shortcut button.
+                </p>
+            </td>
+            <td width="0" height="57">
+            </td>
+        </tr>
+        <tr>
+            <td width="0" height="57">
+            </td>
+        </tr>
+        <tr>
+            <td width="0" height="30">
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="5" valign="top">
+                <p>
+                    #2
+                </p>
+            </td>
+            <td rowspan="5" valign="top">
+                <p>
+                    (1). xfig allows users to export xfig figure into multiple
+                    figure formats, such as PNG, EPS, JPG, PDF, etc;
+                </p>
+                <p>
+                    (2). Microsoft Visio has its own format named VDX, which is
+well-documented                    <a href="https://en.wikipedia.org/wiki/XML">XML</a>
+                    Schema-based format. If xfig could export the figure into
+                    VDX format, Visio could edit the figure generated by xfig;
+                </p>
+                <p>
+                    (3). Add the export format VDX into xfig. Note that the
+                    genuine VDX format is complicated. Students can design a
+                    “simply” VDX for this feature. If the genuine VDX format
+                    has been implemented, 10 points bonuses will be offered.
+                </p>
+            </td>
+            <td rowspan="5" valign="top">
+                <p>
+                    This new feature has global impact to xfig source codes,
+                    and these components below will be involved:
+                </p>
+                <p>
+                    (1). The new item in listbox of figure type.
+                </p>
+                <p>
+                    (2). The new x window of setting VDX figure properties.
+                </p>
+                <p>
+                    (3). Interpreting figure data between the original xfig and
+                    VDX.
+                </p>
+            </td>
+            <td width="0" height="33">
+            </td>
+        </tr>
+        <tr>
+            <td width="0" height="33">
+            </td>
+        </tr>
+        <tr>
+            <td width="0" height="33">
+            </td>
+        </tr>
+        <tr>
+            <td width="0" height="33">
+            </td>
+        </tr>
+        <tr>
+            <td width="0" height="57">
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="5" valign="top">
+                <p>
+                    #3 &amp; #4
+                </p>
+            </td>
+            <td rowspan="5" valign="top">
+                <p>
+                    Self-proposed features (follow the examples of #1 &amp; #2
+                    to finish this table).
+                </p>
+            </td>
+            <td rowspan="5" valign="top">
+                <p>
+                    Follow the examples of #1 &amp; #2 to finish this table
+                </p>
+            </td>
+            <td width="0" height="33">
+            </td>
+        </tr>
+        <tr>
+            <td width="0" height="33">
+            </td>
+        </tr>
+        <tr>
+            <td width="0" height="33">
+            </td>
+        </tr>
+        <tr>
+            <td width="0" height="33">
+            </td>
+        </tr>
+        <tr>
+            <td width="0" height="57">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+Each team needs to choose a member as the **project leader** (with 5% bonus of the final project points). The project leader has the responsibility of managing the project and assigning tasks. Each feature will have a **feature champion** (others team members, except the team leader), who will lead this feature development. All documents, presentation slides, source codes and other deliverables must be uploaded to the moodle before the due date. At the end of the semester, the team members will do a cross evaluation of contribution among each other.
+
+Grading rules for each deliverable will be posted on moodle assignments. Late submission will not be accepted unless the instructor has been notified with an acceptable reason.
+
+## **Grading**
+
+- 70 points (projects)
+
+– xfig Architecture Document & Presentation: 10 points
+
+– New Features Analysis (a.k.a., Requirements): 10 points
+
+– Design (Concept Location & Impact Analysis): 10 points
+
+– Test Cases & Results: 10 points
+
+– Code Inspection: 10 points
+
+– New Features: 20 points (10 points/feature, feature champion: your feature + sum of other features/3, team leader: sum of all features/2)
+
+- 5 points – xfig Supporting Technique – X Window Document & Presentation
+- 5 points - Cross Evaluation of Contribution of Team Members
+- 5 points – Essay for Ethics and Social Issues in Software Engineering under the COVID-19 pandemic (minimal 2 pages excluding references)
+- 15 points – Exam
+
+### **Criteria**
+
+- Grading rule for each assignment will be posted on moodle.
