@@ -863,31 +863,29 @@ This course project is team based. Students attending this course will be groupe
 <table border="1" cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
-            <td valign="top">
+            <td width="59" valign="top">
                 <p>
                     <strong>Feature #</strong>
                 </p>
             </td>
-            <td valign="top">
+            <td width="376" valign="top">
                 <p>
                     <strong>Change Request/New Feature</strong>
                 </p>
             </td>
-            <td valign="top">
+            <td width="188" valign="top">
                 <p>
                     <strong>Scope</strong>
                 </p>
             </td>
-            <td width="0" height="33">
-            </td>
         </tr>
         <tr>
-            <td rowspan="3" valign="top">
+            <td width="59" valign="top">
                 <p>
                     #1
                 </p>
             </td>
-            <td rowspan="3" valign="top">
+            <td width="376" valign="top">
                 <p>
                     (1). Each xfig object (e.g., arch, line, rectangle) has a
                     property called depth, which is used to identify and group
@@ -905,10 +903,10 @@ This course project is team based. Students attending this course will be groupe
                     back” and “bring to front”, which will set the depth of the
                     selected object to the maximum value and then put it on the
                     bottom layer (Note that Depth 0 is the top of the drawing
-                    order).
+                    order).<strong></strong>
                 </p>
             </td>
-            <td rowspan="3" valign="top">
+            <td width="188" valign="top">
                 <p>
                     This new feature has global impact to xfig source codes,
                     and these components below will be involved:
@@ -918,29 +916,19 @@ This course project is team based. Students attending this course will be groupe
                     data structures of all xfig objects regarding.
                 </p>
                 <p>
-                    (2). The new x window menu item and shortcut button.
+(2). The new x window menu item and shortcut button.                    <strong></strong>
                 </p>
             </td>
-            <td width="0" height="57">
-            </td>
         </tr>
         <tr>
-            <td width="0" height="57">
-            </td>
-        </tr>
-        <tr>
-            <td width="0" height="30">
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="5" valign="top">
+            <td width="59" valign="top">
                 <p>
                     #2
                 </p>
             </td>
-            <td rowspan="5" valign="top">
+            <td width="376" valign="top">
                 <p>
-                    (1). xfig allows users to export xfig figure into multiple
+                    1). xfig allows users to export xfig figure into multiple
                     figure formats, such as PNG, EPS, JPG, PDF, etc;
                 </p>
                 <p>
@@ -956,7 +944,7 @@ well-documented                    <a href="https://en.wikipedia.org/wiki/XML">X
                     has been implemented, 10 points bonuses will be offered.
                 </p>
             </td>
-            <td rowspan="5" valign="top">
+            <td width="188" valign="top">
                 <p>
                     This new feature has global impact to xfig source codes,
                     and these components below will be involved:
@@ -969,62 +957,26 @@ well-documented                    <a href="https://en.wikipedia.org/wiki/XML">X
                 </p>
                 <p>
                     (3). Interpreting figure data between the original xfig and
-                    VDX.
+                    VDX. <strong></strong>
                 </p>
             </td>
-            <td width="0" height="33">
-            </td>
         </tr>
         <tr>
-            <td width="0" height="33">
-            </td>
-        </tr>
-        <tr>
-            <td width="0" height="33">
-            </td>
-        </tr>
-        <tr>
-            <td width="0" height="33">
-            </td>
-        </tr>
-        <tr>
-            <td width="0" height="57">
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="5" valign="top">
+            <td width="59" valign="top">
                 <p>
                     #3 &amp; #4
                 </p>
             </td>
-            <td rowspan="5" valign="top">
+            <td width="376" valign="top">
                 <p>
                     Self-proposed features (follow the examples of #1 &amp; #2
                     to finish this table).
                 </p>
             </td>
-            <td rowspan="5" valign="top">
+            <td width="188" valign="top">
                 <p>
-                    Follow the examples of #1 &amp; #2 to finish this table
+Follow the examples of #1 &amp; #2 to finish this table                    <strong></strong>
                 </p>
-            </td>
-            <td width="0" height="33">
-            </td>
-        </tr>
-        <tr>
-            <td width="0" height="33">
-            </td>
-        </tr>
-        <tr>
-            <td width="0" height="33">
-            </td>
-        </tr>
-        <tr>
-            <td width="0" height="33">
-            </td>
-        </tr>
-        <tr>
-            <td width="0" height="57">
             </td>
         </tr>
     </tbody>
