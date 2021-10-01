@@ -860,7 +860,7 @@ _This calendar is tentative, and subject to revision during the semester._
 
 This course project is team based. Students attending this course will be grouped into 4 teams (5 students per team) and focus on software maintenance of a well-known open source software xfig. Teams will work on 4 new features of xfig, which are listed below.
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="1" cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
             <td valign="top">
