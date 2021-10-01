@@ -12,22 +12,22 @@ _This calendar is tentative, and subject to revision during the semester._
 <table border="1" cellspacing="0" cellpadding="0">
   <thead>
     <tr>
-      <td valign="top">
+      <td width="49" valign="top">
         <p align="center">
           <strong>Week</strong>
         </p>
       </td>
-      <td valign="top">
+      <td width="85" valign="top">
         <p>
           <strong>Date</strong>
         </p>
       </td>
-      <td valign="top">
+      <td width="280" valign="top">
         <p>
           <strong>Topic</strong>
         </p>
       </td>
-      <td valign="top">
+      <td width="150" valign="top">
         <p>
           <strong>Assignment Due/Milestone/Notes</strong>
         </p>
