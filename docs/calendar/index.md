@@ -990,17 +990,17 @@ Grading rules for each deliverable will be posted on moodle assignments. Late su
 
 - 70 points (projects)
 
-– xfig Architecture Document & Presentation: 10 points
-
-– New Features Analysis (a.k.a., Requirements): 10 points
-
-– Design (Concept Location & Impact Analysis): 10 points
-
-– Test Cases & Results: 10 points
-
-– Code Inspection: 10 points
-
-– New Features: 20 points (10 points/feature, feature champion: your feature + sum of other features/3, team leader: sum of all features/2)
+> – xfig Architecture Document & Presentation: 10 points
+>
+> – New Features Analysis (a.k.a., Requirements): 10 points
+>
+> – Design (Concept Location & Impact Analysis): 10 points
+>
+> – Test Cases & Results: 10 points
+>
+> – Code Inspection: 10 points
+>
+> – New Features: 20 points (10 points/feature, feature champion: your feature + sum of other features/3, team leader: sum of all features/2)
 
 - 5 points – xfig Supporting Technique – X Window Document & Presentation
 - 5 points - Cross Evaluation of Contribution of Team Members
