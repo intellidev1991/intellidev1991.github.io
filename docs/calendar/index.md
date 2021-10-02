@@ -92,7 +92,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    L02 – Software Lifespan Model
+                    L02 – <a href="/assets/files/L02 - software life span models.ppt">Software Lifespan Model</a>
                 </p>
             </td>
             <td width="142" valign="top">
@@ -106,7 +106,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    L03 – Software Technologies
+                    L03 – <a href="/assets/files/L03 - software technologies.ppt">Software Technologies</a>
                 </p>
             </td>
             <td width="142" valign="top">
@@ -143,7 +143,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    L04 – Software Models
+                    L04 – <a href="/assets/files/L04 - software models.ppt">Software Models</a>
                 </p>
             </td>
             <td width="142" valign="top">
