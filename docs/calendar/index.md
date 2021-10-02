@@ -402,7 +402,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    L08 – <a href="/assets/files/L08 -  actualization.ppt">Actualization</a>
+                    L08 – <a href="/assets/files/L08 - actualization.ppt">Actualization</a>
                 </p>
             </td>
             <td width="142" valign="top">
@@ -430,7 +430,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    L10 – <a href="/assets/files/L10 -  verification.ppt">Verification</a>
+                    L10 – <a href="/assets/files/L10 - verification.ppt">Verification</a>
                 </p>
             </td>
             <td width="142" valign="top">
