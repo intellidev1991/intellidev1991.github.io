@@ -157,7 +157,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    <a>
+                    <a href="http://mcj.sourceforge.net/">
                         Lab: Install and build xfig on Ubuntu Linux
                         Server/Laptop/Virtual machine
                     </a>
@@ -216,7 +216,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    L05 – Introduction to Software Changes
+                    L05 – <a href="/assets/files/L05 - introduction to software change.ppt">Introduction to Software Changes</a>
                 </p>
             </td>
             <td width="142" valign="top">
@@ -333,7 +333,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    L06 – Concepts and Concept Location
+                    L06 – <a href="/assets/files/L06 - concepts and concept location.ppt">Concepts and Concept Location</a>
                 </p>
             </td>
             <td width="142" valign="top">
@@ -352,7 +352,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    L07 – Impact Analysis
+                    L07 – <a href="/assets/files/L07 - impact analysis.ppt">Impact Analysis</a>
                 </p>
             </td>
             <td width="142" valign="top">
@@ -402,7 +402,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    L08 – Actualization
+                    L08 – <a href="/assets/files/L08 -  actualization.ppt">Actualization</a>
                 </p>
             </td>
             <td width="142" valign="top">
@@ -416,7 +416,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    L09 – Refactoring
+                    L09 – <a href="/assets/files/L09 - refactoring.ppt">Refactoring</a>
                 </p>
             </td>
             <td width="142" valign="top">
@@ -430,7 +430,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    L10 – Verification
+                    L10 – <a href="/assets/files/L10 -  verification.ppt">Verification</a>
                 </p>
             </td>
             <td width="142" valign="top">
@@ -449,7 +449,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    L11 – Code Inspection
+                    L11 – <a href="/assets/files/L11 - conclusion of software change.ppt">Code Inspection</a>
                 </p>
             </td>
             <td width="142" valign="top">
@@ -477,7 +477,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    L12 – Conclusion of Software Changes
+                    L12 – <a href="/assets/files/L12 - introduction to software processes.ppt">Conclusion of Software Changes</a>
                 </p>
                 <p>
                     Essay Assignment
@@ -535,7 +535,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    L13 – Software Security
+                    L13 – <a href="/assets/files/L13 - final stages.ppt">Software Security</a>
                 </p>
             </td>
             <td width="142" valign="top">
