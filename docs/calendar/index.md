@@ -73,7 +73,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    L01 – <a href="/files/L01- history of software engineering.ppt">History of Software Engineering</a>
+                    L01 – <a href="/assets/files/L01- history of software engineering.ppt">History of Software Engineering</a>
                 </p>
             </td>
             <td width="142" valign="top">
