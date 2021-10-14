@@ -29,21 +29,127 @@ _Professionalism_: Being a professional means you should work well with others. 
 
 Teams will work on 4 new features of Xfig, which are listed below:
 
-| **Feature #**                  | **Change Request/New Feature**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Scope**                                                                                                                                                                                                                                                                                                 |
-| :----------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>#1</p><p> </p><p> </p>      | <p>(1). Each Xfig object (e.g., arch, line, rectangle) has a property called depth, which is used to identify and group the objects on the same layer. This feature is important to address the object overlapping relationship. </p><p>(2). Users are allowed to change the depth of any Xfig object, and then re-organize the overlapping among objects. However, it is not very convenient, if users just want to flip flap overlapped objects.</p><p>(3). A quick way is to add a new feature called “send to back” and “bring to front”, which will set the depth of the selected object to the maximum value and then put it on the bottom layer (Note that Depth 0 is the top of the drawing order).</p> | <p>This new feature has global impact to Xfig source codes, and these components below will be involved:</p><p>(1). Relevant grouping /recording functions of accessing data structures of all xfig objects regarding.</p><p>(2). The new X window menu item and shortcut button.</p>                     |
-|                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                           |
-|                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                           |
-| <p>#2</p><p> </p><p> </p>      | <p>(1). Xfig allows users to export xfig figure into multiple figure formats, such as PNG, EPS, JPG, PDF, etc;</p><p>(2). Microsoft Visio has its own format named VDX, which is a well-documented [XML](https://en.wikipedia.org/wiki/XML) Schema-based format. If Xfig could export the figure into VDX format, Visio could edit the figure generated by xfig; </p><p>(3). Add the export format VDX into Xfig. Note that the genuine VDX format is complicated. Students can design a “simple” VDX for this feature. If the genuine VDX format has been implemented, 10 points bonuses will be offered. </p>                                                                                                 | <p>This new feature has global impact to xfig source codes, and these components below will be involved:</p><p>(1). The new item in the listbox of figure type.</p><p>(2). The new X window of setting VDX figure properties.</p><p>(3). Interpreting figure data between the original Xfig and VDX. </p> |
-|                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                           |
-|                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                           |
-|                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                           |
-|                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                           |
-| <p>#3 & #4</p><p> </p><p> </p> | Self-proposed features (follow the examples of #1 & #2 to finish this table).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Follow the examples of #1 & #2 to finish this table                                                                                                                                                                                                                                                       |
-|                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                           |
-|                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                           |
-|                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                           |
-|                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                           |
+<table border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td width="85" valign="top">
+                <p>
+                    <strong>Feature #</strong>
+                </p>
+            </td>
+            <td width="331" valign="top">
+                <p>
+                    <strong>Change Request/New Feature</strong>
+                </p>
+            </td>
+            <td width="208" valign="top">
+                <p>
+                    <strong>Scope</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="85" valign="top">
+                <p>
+                    #1
+                </p>
+            </td>
+            <td width="331" valign="top">
+                <p>
+                    (1). Each Xfig object (e.g., arch, line, rectangle) has a
+                    property called depth, which is used to identify and group
+                    the objects on the same layer. This feature is important to
+                    address the object overlapping relationship.
+                </p>
+                <p>
+                    (2). Users are allowed to change the depth of any Xfig
+                    object, and then re-organize the overlapping among objects.
+                    However, it is not very convenient, if users just want to
+                    flip flap overlapped objects.
+                </p>
+                <p>
+                    (3). A quick way is to add a new feature called “send to
+                    back” and “bring to front”, which will set the depth of the
+                    selected object to the maximum value and then put it on the
+                    bottom layer (Note that Depth 0 is the top of the drawing
+                    order).
+                </p>
+            </td>
+            <td width="208" valign="top">
+                <p>
+                    This new feature has global impact to Xfig source codes,
+                    and these components below will be involved:
+                </p>
+                <p>
+                    (1). Relevant grouping /recording functions of accessing
+                    data structures of all xfig objects regarding.
+                </p>
+                <p>
+                    (2). The new X window menu item and shortcut button.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="85" valign="top">
+                <p>
+                    #2
+                </p>
+            </td>
+            <td width="331" valign="top">
+                <p>
+                    (1). Xfig allows users to export xfig figure into multiple
+                    figure formats, such as PNG, EPS, JPG, PDF, etc;
+                </p>
+                <p>
+                    (2). Microsoft Visio has its own format named VDX, which is
+a well-documented                    <a href="https://en.wikipedia.org/wiki/XML">XML</a>
+                    Schema-based format. If Xfig could export the figure into
+                    VDX format, Visio could edit the figure generated by xfig;
+                </p>
+                <p>
+                    (3). Add the export format VDX into Xfig. Note that the
+                    genuine VDX format is complicated. Students can design a
+                    “simple” VDX for this feature. If the genuine VDX format
+                    has been implemented, 10 points bonuses will be offered.
+                </p>
+            </td>
+            <td width="208" valign="top">
+                <p>
+                    This new feature has global impact to xfig source codes,
+                    and these components below will be involved:
+                </p>
+                <p>
+                    (1). The new item in the listbox of figure type.
+                </p>
+                <p>
+                    (2). The new X window of setting VDX figure properties.
+                </p>
+                <p>
+                    (3). Interpreting figure data between the original Xfig and
+                    VDX.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="85" valign="top">
+                <p>
+                    #3 &amp; #4
+                </p>
+            </td>
+            <td width="331" valign="top">
+                <p>
+                    Self-proposed features (follow the examples of #1 &amp; #2
+                    to finish this table).
+                </p>
+            </td>
+            <td width="208" valign="top">
+                <p>
+                    Follow the examples of #1 &amp; #2 to finish this table
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 **Deliverables & Schedule & Grading Rules:**
 
