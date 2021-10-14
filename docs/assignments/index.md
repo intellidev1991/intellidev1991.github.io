@@ -155,7 +155,7 @@ a well-documented                    <a href="https://en.wikipedia.org/wiki/XML"
 
 All documents, presentation slides, source codes and other deliverables must be uploaded to the moodle before the due date. Grading rules for each deliverable are shown below. Late submission will not be accepted unless the instructor has been notified with an acceptable reason (e.g., health issues, travel for academic conferences or interviews, …, on a case by case basis).
 
-1. _Xfig Architecture Diagrams (Due: February 8, 2021)_
+1 - _Xfig Architecture Diagrams (Due: February 8, 2021)_
 
 > (1). You can use any tool including Xfig itself to draw the UML diagrams extracted from Xfig source codes. The diagrams include one static diagram (similar to C++ class diagram, called pseudo class diagram) and one activity diagram (3 points for each of them: 3 - Good, 2 - Fair, 1 - Poor). Your diagrams need to have significant improvement compared to the sample ones. Otherwise, you cannot get the points.
 >
@@ -165,7 +165,7 @@ All documents, presentation slides, source codes and other deliverables must be 
 >
 > Note that the rules for the absence of presentation are the same as before.
 
-2. _Requirement Book (Due: March 1, 2021)_
+2 - _Requirement Book (Due: March 1, 2021)_
 
 > (1). Requirement Book for new features (6 points per feature, and the final grading is the average points of all features)
 >
@@ -189,7 +189,7 @@ All documents, presentation slides, source codes and other deliverables must be 
 >
 > (3). Feature Change Request Table: 2 points
 
-3. _Design (Concept Location & Impact Analysis) (Due: March 15, 2021)_
+3 - _Design (Concept Location & Impact Analysis) (Due: March 15, 2021)_
 
 > (1). Updating the requirement book based on the comments from the instructor (2 points): Note - you need to highlight the changes, and create the change history table to get this credit.
 >
@@ -217,7 +217,7 @@ All documents, presentation slides, source codes and other deliverables must be 
 >
 > Note that please submit your requirement book revision, static diagram revision and design document in one zip file.
 
-4. _Test Cases & Test Results (Due: April 28, 2021)_
+4 - _Test Cases & Test Results (Due: April 28, 2021)_
 
 > Grading (10 points in total):
 >
@@ -239,13 +239,13 @@ All documents, presentation slides, source codes and other deliverables must be 
 >
 > Test Results: 3 points (test results are due by Apr. 26, 2021 10:20am)
 
-5. _Code Inspection (Due: April 28, 2021)_
+5 - _Code Inspection (Due: April 28, 2021)_
 
 > This assignment is due by the last class (April 28, 2021 10:20am). However, the moderator needs to submit the author's summary and reader's log before your code inspection meeting. The in-meeting log and final summary can be appended here by the due date.
 >
 > Please refer to our coding and code inspection preparing slides for details.
 
-6. _Features (Due: April 28, 2021)_
+6 - _Features (Due: April 28, 2021)_
 
 > (1). Coding is due by Apr. 28, 2021 before the class, and all requirements need to be demonstrated in the class;
 >
