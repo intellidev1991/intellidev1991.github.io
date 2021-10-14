@@ -21,7 +21,7 @@ has_children: false
 
 _Overview_: This course project is team based. Students attending this course will be assigned into 4 teams (5 students per team) and focus on software maintenance of a well-known open-source software Xfig.
 
-_Roles and responsibilities_:** Each team needs to choose a member as the **project leader** (with 5% bonus of the final project points). The project leader has the responsibility of managing the project and assigning tasks. Each feature will have a **feature champion\*\* (others team members, except the team leader), who will lead this feature development. At the end of the semester, the team members will do a cross evaluation of contribution among each other.
+_Roles and responsibilities_:** Each team needs to choose a member as the **project leader** (with 5% bonus of the final project points). The project leader has the responsibility of managing the project and assigning tasks. Each feature will have a **feature champion\*\* g (others team members, except the team leader), who will lead this feature development. At the end of the semester, the team members will do a cross evaluation of contribution among each other.
 
 _Professionalism_: Being a professional means you should work well with others. If the behavior of any team member is unprofessional, you could contact the instructor to discuss this matter privately.\*\*
 
