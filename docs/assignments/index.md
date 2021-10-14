@@ -157,98 +157,98 @@ All documents, presentation slides, source codes and other deliverables must be 
 
 1. _Xfig Architecture Diagrams (Due: February 8, 2021)_
 
-(1). You can use any tool including Xfig itself to draw the UML diagrams extracted from Xfig source codes. The diagrams include one static diagram (similar to C++ class diagram, called pseudo class diagram) and one activity diagram (3 points for each of them: 3 - Good, 2 - Fair, 1 - Poor). Your diagrams need to have significant improvement compared to the sample ones. Otherwise, you cannot get the points.
+> (1). You can use any tool including Xfig itself to draw the UML diagrams extracted from Xfig source codes. The diagrams include one static diagram (similar to C++ class diagram, called pseudo class diagram) and one activity diagram (3 points for each of them: 3 - Good, 2 - Fair, 1 - Poor). Your diagrams need to have significant improvement compared to the sample ones. Otherwise, you cannot get the points.
+>
+> (2). One-page summary explaining these two diagrams and your improvements in details is requested. (2 point)
+>
+> (3). Presentation slides are not requested. You can present based on your diagrams and the summary. (2 points)
+>
+> Note that the rules for the absence of presentation are the same as before.
 
-(2). One-page summary explaining these two diagrams and your improvements in details is requested. (2 point)
+2. _Requirement Book (Due: March 1, 2021)_
 
-(3). Presentation slides are not requested. You can present based on your diagrams and the summary. (2 points)
+> (1). Requirement Book for new features (6 points per feature, and the final grading is the average points of all features)
+>
+> (Very Poor: 1 point, Poor: 2 point, Fair: 3 points, Fair/Good: 4 points, Good: 5 points, Excellent: 6 points)
+>
+> Grading Criteria:
+>
+> Very Poor: No difference compared to the feature change requests.
+>
+> Poor: Difference can be observed, but requirements are not itemized.
+>
+> Fair: Difference can be observed, and requirements have been itemized.
+>
+> Fair/Good: All itemized requirements are feasible, testable, concise, and clear.
+>
+> Good: Sufficient interaction with other relevant features have been included.
+>
+> Excellent: Smart, effective and user friendly solutions have been proposed to address the feature interaction.
+>
+> (2). Presentation: 2 points (must attend the presentation to get this credit)
+>
+> (3). Feature Change Request Table: 2 points
 
-Note that the rules for the absence of presentation are the same as before.
+3. _Design (Concept Location & Impact Analysis) (Due: March 15, 2021)_
 
-1. _Requirement Book (Due: March 1, 2021)_
+> (1). Updating the requirement book based on the comments from the instructor (2 points): Note - you need to highlight the changes, and create the change history table to get this credit.
+>
+> (2). Updating the diagrams to support the design (1 point): Note - you cannot get this credit if your diagram updating has no connection with the needs of your concept location and impact analysis.
+>
+> (3). Presentation (2 points): You must attend the presentation to get this credit.
+>
+> (4). Feature (5 points): 5 points per feature (2 points for concept location, and 3 points for impact analysis), and "the grading = # points of total features / # of features"
+>
+> (i). Concept Location:
+>
+> Describing the progress of building and executing the query for your feature - 1 point
+>
+> Concept location result - 1 point
+>
+> (ii). Impact Analysis: Note - you must follow the methodology introduced in the lecture and take use of your static diagram, otherwise no credit will be obtained
+>
+> Grading Criteria:
+>
+> Poor - 1 point: only provide the impact analysis result and mark it on your static diagram.
+>
+> Fair - 2 points: provide the impact analysis result and mark it on your static diagram. Also, the progress and its explanation are given in detail.
+>
+> Good - 3 points: Two different coding solutions have been evaluated based on their impact analysis results, and the decision has been given based on the evaluation result. Note - if it is impossible to have 2 alternative solutions, please explain it in detail.
+>
+> Note that please submit your requirement book revision, static diagram revision and design document in one zip file.
 
-(1). Requirement Book for new features (6 points per feature, and the final grading is the average points of all features)
+4. _Test Cases & Test Results (Due: April 28, 2021)_
 
-(Very Poor: 1 point, Poor: 2 point, Fair: 3 points, Fair/Good: 4 points, Good: 5 points, Excellent: 6 points)
+> Grading (10 points in total):
+>
+> Test case and requirement book traceability table: 1 point
+>
+> Presentation: 2 points (Note: you must attend the presentation to get this credit unless an acceptable reason has been sent to the instructor before the presentation)
+>
+> Test Cases: 4 points per feature and the final grading is the average points of all your features.
+>
+> Grading Criteria:
+>
+> Excellent - 4 points: Full coverage to all requirements has been reached, and all test cases can be considered full test cases. Note - a test case with all key elements (i.e., case ID, title, dependency, input specification, test steps, and output specification) can be considered a full test case.
+>
+> Good - 3 points: Full coverage to all requirements has been reached, and a few test cases have issues to be considered a full test case.
+>
+> Fair - 2 points: Full coverage to all requirements has been reached, and a significant number of test cases have issues in being considered full test cases.
+>
+> Poor - 1 point: Full coverage to all requirements has NOT been reached, and a significant number of test cases have issues in being considered full test cases.
+>
+> Test Results: 3 points (test results are due by Apr. 26, 2021 10:20am)
 
-Grading Criteria:
+5. _Code Inspection (Due: April 28, 2021)_
 
-Very Poor: No difference compared to the feature change requests.
+> This assignment is due by the last class (April 28, 2021 10:20am). However, the moderator needs to submit the author's summary and reader's log before your code inspection meeting. The in-meeting log and final summary can be appended here by the due date.
+>
+> Please refer to our coding and code inspection preparing slides for details.
 
-Poor: Difference can be observed, but requirements are not itemized.
+6. _Features (Due: April 28, 2021)_
 
-Fair: Difference can be observed, and requirements have been itemized.
-
-Fair/Good: All itemized requirements are feasible, testable, concise, and clear.
-
-Good: Sufficient interaction with other relevant features have been included.
-
-Excellent: Smart, effective and user friendly solutions have been proposed to address the feature interaction.
-
-(2). Presentation: 2 points (must attend the presentation to get this credit)
-
-(3). Feature Change Request Table: 2 points
-
-1. _Design (Concept Location & Impact Analysis) (Due: March 15, 2021)_
-
-(1). Updating the requirement book based on the comments from the instructor (2 points): Note - you need to highlight the changes, and create the change history table to get this credit.
-
-(2). Updating the diagrams to support the design (1 point): Note - you cannot get this credit if your diagram updating has no connection with the needs of your concept location and impact analysis.
-
-(3). Presentation (2 points): You must attend the presentation to get this credit.
-
-(4). Feature (5 points): 5 points per feature (2 points for concept location, and 3 points for impact analysis), and "the grading = # points of total features / # of features"
-
-(i). Concept Location:
-
-Describing the progress of building and executing the query for your feature - 1 point
-
-Concept location result - 1 point
-
-(ii). Impact Analysis: Note - you must follow the methodology introduced in the lecture and take use of your static diagram, otherwise no credit will be obtained
-
-Grading Criteria:
-
-Poor - 1 point: only provide the impact analysis result and mark it on your static diagram.
-
-Fair - 2 points: provide the impact analysis result and mark it on your static diagram. Also, the progress and its explanation are given in detail.
-
-Good - 3 points: Two different coding solutions have been evaluated based on their impact analysis results, and the decision has been given based on the evaluation result. Note - if it is impossible to have 2 alternative solutions, please explain it in detail.
-
-Note that please submit your requirement book revision, static diagram revision and design document in one zip file.
-
-1. _Test Cases & Test Results (Due: April 28, 2021)_
-
-Grading (10 points in total):
-
-Test case and requirement book traceability table: 1 point
-
-Presentation: 2 points (Note: you must attend the presentation to get this credit unless an acceptable reason has been sent to the instructor before the presentation)
-
-Test Cases: 4 points per feature and the final grading is the average points of all your features.
-
-Grading Criteria:
-
-Excellent - 4 points: Full coverage to all requirements has been reached, and all test cases can be considered full test cases. Note - a test case with all key elements (i.e., case ID, title, dependency, input specification, test steps, and output specification) can be considered a full test case.
-
-Good - 3 points: Full coverage to all requirements has been reached, and a few test cases have issues to be considered a full test case.
-
-Fair - 2 points: Full coverage to all requirements has been reached, and a significant number of test cases have issues in being considered full test cases.
-
-Poor - 1 point: Full coverage to all requirements has NOT been reached, and a significant number of test cases have issues in being considered full test cases.
-
-Test Results: 3 points (test results are due by Apr. 26, 2021 10:20am)
-
-1. _Code Inspection (Due: April 28, 2021)_
-
-This assignment is due by the last class (April 28, 2021 10:20am). However, the moderator needs to submit the author's summary and reader's log before your code inspection meeting. The in-meeting log and final summary can be appended here by the due date.
-
-Please refer to our coding and code inspection preparing slides for details.
-
-1. _Features (Due: April 28, 2021)_
-
-(1). Coding is due by Apr. 28, 2021 before the class, and all requirements need to be demonstrated in the class;
-
-(2). Commit all codes into the GitHub repository by Apr. 28, 2021 before the class, and a copy of source codes of xfig needs to be submitted here.
-
-(3). Pass all test cases (the test log needs to be submitted by Apr. 28, 2021 before the class) Note: the same moodle assignment as test cases
+> (1). Coding is due by Apr. 28, 2021 before the class, and all requirements need to be demonstrated in the class;
+>
+> (2). Commit all codes into the GitHub repository by Apr. 28, 2021 before the class, and a copy of source codes of xfig needs to be submitted here.
+>
+> (3). Pass all test cases (the test log needs to be submitted by Apr. 28, 2021 before the class) Note: the same moodle assignment as test cases
