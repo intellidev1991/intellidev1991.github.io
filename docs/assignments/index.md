@@ -5,9 +5,9 @@ nav_order: 1
 has_children: false
 ---
 
-**_Project Description_**
+# **Project Description**
 
-**Objectives:**
+## **Objectives:**
 
 1. Be able to conduct software change process;
 
@@ -17,7 +17,7 @@ has_children: false
 
 4. Practice presentation and communication skills requested by software engineering.
 
-**Team Setup:**
+## **Team Setup:**
 
 _Overview_: This course project is team based. Students attending this course will be assigned into 4 teams (5 students per team) and focus on software maintenance of a well-known open-source software Xfig.
 
@@ -25,7 +25,7 @@ _Roles and responsibilities_:** Each team needs to choose a member as the **proj
 
 _Professionalism_: Being a professional means you should work well with others. If the behavior of any team member is unprofessional, you could contact the instructor to discuss this matter privately.\*\*
 
-**Feature Change Requests:**
+## **Feature Change Requests:**
 
 Teams will work on 4 new features of Xfig, which are listed below:
 
@@ -151,7 +151,7 @@ a well-documented                    <a href="https://en.wikipedia.org/wiki/XML"
     </tbody>
 </table>
 
-**Deliverables & Schedule & Grading Rules:**
+## **Deliverables & Schedule & Grading Rules:**
 
 All documents, presentation slides, source codes and other deliverables must be uploaded to the moodle before the due date. Grading rules for each deliverable are shown below. Late submission will not be accepted unless the instructor has been notified with an acceptable reason (e.g., health issues, travel for academic conferences or interviews, …, on a case by case basis).
 
