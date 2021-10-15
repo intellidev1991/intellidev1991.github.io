@@ -4,6 +4,7 @@ $blue: #2589bd;
 $white: #fff;
 
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,300;1,400;1,500;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&display=swap");
 
 html {
   font-family: "Roboto", sans-serif !important;
@@ -11,7 +12,7 @@ html {
 
 * {
   color: $black !important;
-  font-family: "Roboto", sans-serif !important;
+  font-family: "Kalam", cursive !important;
 }
 
 b,
@@ -20,6 +21,7 @@ strong {
   em {
     color: $black !important;
   }
+  font-family: "Roboto", sans-serif !important;
 }
 
 blockquote {
