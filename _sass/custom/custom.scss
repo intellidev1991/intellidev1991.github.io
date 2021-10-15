@@ -3,16 +3,8 @@ $green: #026e57;
 $blue: #2589bd;
 $white: #fff;
 
-@font-face {
-  font-family: "Helsinki";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Helsinki"), url("./helsinki.woff") format("woff");
-}
-
 * {
   color: $black !important;
-  font-family: "Helsinki" !important;
 }
 
 b,
