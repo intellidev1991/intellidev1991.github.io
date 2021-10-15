@@ -1,6 +1,7 @@
 $black: #121113;
 $green: #026e57;
 $blue: #2589bd;
+$white: #fff;
 
 * {
   color: $black !important;
@@ -34,4 +35,5 @@ a {
 
 .nav-list-item a {
   font-size: 20px !important;
+  color: $white !important;
 }
