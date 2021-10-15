@@ -40,3 +40,11 @@ a {
 .nav-list-item.active a {
   color: #10126e !important;
 }
+
+@media (min-width: 31.25rem) {
+  h2,
+  .text-beta {
+    font-size: 24px !important;
+    line-height: 1.25;
+  }
+}
