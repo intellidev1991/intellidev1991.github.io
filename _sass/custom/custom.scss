@@ -103,6 +103,8 @@ html {
   color: $black !important;
   // font-family: "Kalam", cursive !important;
   font-family: "Komika Text", sans-serif !important;
+  font-size: 18px;
+  line-height: 29px;
 }
 
 b,
@@ -111,7 +113,7 @@ strong {
   em {
     color: $black !important;
   }
-  font-family: "Helsinki", sans-serif !important;
+  //font-family: "Helsinki", sans-serif !important;
 }
 
 blockquote {
