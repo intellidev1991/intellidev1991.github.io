@@ -5,7 +5,7 @@ nav_order: 2
 has_children: false
 ---
 
-## **Course Schedule & Graded Activities**
+# **Course Schedule & Graded Activities**
 
 _This calendar is tentative, and subject to revision during the semester._
 
