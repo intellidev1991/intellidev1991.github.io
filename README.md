@@ -12,11 +12,11 @@
 
 ## **Instructor Contact Information**
 
-Name: `Yu Liu`  
-Office Address: `CAMP 166`  
-Phone Number: `(315)268-6510`  
-Email Address: `yuliu@clarkson.edu`  
-Student Hours: `Appointment by Email at anytime`
+Name: Yu Liu  
+Office Address: CAMP 166  
+Phone Number: (315)268-6510  
+Email Address: yuliu@clarkson.edu  
+Student Hours: Appointment by Email at anytime
 
 - Will be virtually via Zoom in Spring 2021.
 
