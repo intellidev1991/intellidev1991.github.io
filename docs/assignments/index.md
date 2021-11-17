@@ -11,7 +11,7 @@ has_children: false
 
 1. Be able to conduct the software change process;
 
-2. Be able to write software requirement specification, and other critical documents (e.g., design document, test cases);
+2. Be able to write software documents (requirement specification, design document, test cases);
 
 3. Work in the team environment;
 
