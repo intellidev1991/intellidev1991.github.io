@@ -9,7 +9,7 @@ has_children: false
 
 ## **Objectives:**
 
-1. Be able to conduct software change process;
+1. Be able to conduct the software change process;
 
 2. Be able to write software requirement specification, and other critical documents (e.g., design document, test cases);
 
